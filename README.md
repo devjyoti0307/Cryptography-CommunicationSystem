@@ -14,7 +14,6 @@ The blockchain is an innovative technology that overcomes these threats and allo
 
 
 ### The Diagram here:-
-Updates:
 ![Untitled Diagram](https://github.com/user-attachments/assets/bec3d703-acf0-49e8-a4ca-6e933d09bb7e)
 
 
